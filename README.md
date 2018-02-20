@@ -1,4 +1,6 @@
-# Ember-phoenix [![Build Status](https://travis-ci.org/levanto-financial/ember-phoenix.svg?branch=master)](https://travis-ci.org/levanto-financial/ember-phoenix) [![Ember Observer Score](https://emberobserver.com/badges/ember-phoenix.svg)](https://emberobserver.com/addons/ember-phoenix) [![npm version](https://badge.fury.io/js/ember-phoenix.svg)](https://badge.fury.io/js/ember-phoenix)
+# Ember-phoenix [![Build Status](https://travis-ci.org/mike-north/ember-phoenix.svg?branch=master)](https://travis-ci.org/mike-north/ember-phoenix) [![Ember Observer Score](https://emberobserver.com/badges/ember-phoenix.svg)](https://emberobserver.com/addons/ember-phoenix) [![npm version](https://badge.fury.io/js/ember-phoenix.svg)](https://badge.fury.io/js/ember-phoenix)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-phoenix.svg)](https://greenkeeper.io/)
 
 ## Installation
 
